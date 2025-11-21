@@ -1,5 +1,3 @@
-from keep_alive import keep_alive
-keep_alive()
 import discord
 import google.generativeai as genai
 import json
